@@ -1,7 +1,7 @@
 import requests
 import string
 
-# with xpath injection and get user passwords from xml file
+# with xpath injection get user passwords from xml file
 # I have writen this scrip for hackthebox unbalanced machine
 
 
